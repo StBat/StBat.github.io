@@ -1,0 +1,9 @@
+name: "Stefaan Batselé"
+description: "Dit is mijn eerste jykyll site."
+ 
+url: "http://localhost:4000"
+ 
+paginate: 10
+ 
+markdown: rdiscount
+permalink: pretty
