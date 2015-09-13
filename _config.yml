@@ -1,8 +1,9 @@
-name: "Stefaan Batselé"
+name: "Basisschool De Bij"
 description: "Dit is mijn eerste jykyll site."
  
 url: "http://localhost:4000"
- 
+logo: "/assets/images/logo.png"
+
 paginate: 10
  
 markdown: rdiscount

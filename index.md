@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+weight: 2
 ---
 
 # Hello World
