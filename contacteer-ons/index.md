@@ -1,7 +1,7 @@
 ---
 title: Contacteer ons
 layout: default
-weight: 10
+weight: 5
 ---
 
 # Contacteer ons

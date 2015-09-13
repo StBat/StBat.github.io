@@ -1,7 +1,7 @@
 ---
 title: SVG
 layout: default
-weight: 4
+weight: 2
 ---
 
 # SVG image 

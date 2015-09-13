@@ -1,7 +1,7 @@
 ---
 title: Over ons
 layout: default
-weight: 6
+weight: 4
 ---
 
 # Over ons 
