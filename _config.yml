@@ -1,7 +1,7 @@
 name: "Basisschool De Bij"
 description: "Dit is mijn eerste jykyll site."
  
-url: "http://localhost:4000"
+url: "http://stbat.github.io"
 logo: "/assets/images/logo.png"
 
 paginate: 10
