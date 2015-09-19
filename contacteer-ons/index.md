@@ -18,7 +18,11 @@ Tel : 02/32652353
 |---------|---------|-------|
 | Monday  | pasta   | $6    |
 | Tuesday | chicken | $8    |
-							 
+
+
+test1, test2, test3
+rij1, rij2, rij3
+
 hihi
 # dtezt	
 ---	
@@ -36,24 +40,28 @@ ofhgqeosjrfùohqsfùjzseoifh qzemxf 														   !
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+
 For aesthetic purposes, you can also add extra pipes on the ends:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 Note that the dashes at the top don't need to match the length of the header text exactly:
 
 | Name | Description          |
 | ------------- | ----------- |
 | Help      | Display the help window.|
 | Close     | Closes a window     |
+
 You can also include inline Markdown such as links, bold, italics, or strikethrough:
 
 | Name | Description          |
 | ------------- | ----------- |
 | Help      | ~~Display the~~ help window.|
 | Close     | _Closes_ a window     |
+
 Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
