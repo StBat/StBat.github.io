@@ -12,5 +12,5 @@ We zijn te bereiken op het volgende adres:
 
 Tel : 02/32652353
 
-## Het kan ook zijn dat we niet thuis zijn !!!!!!
+## Het kan ook zijn dat we niet thuis zijn ![test.jpg](test)
 Dan moet je eens hard roepen aan de voordeur.
