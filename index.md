@@ -4,10 +4,15 @@ layout: default
 weight: 1
 ---
 
-# Hello World
+#### Welkom aan alle Bijen voor een spetterend nieuw schooljaar!  ![boekentas](/assets/images/boekentas.jpg)
  
-Proin eleifend libero accumsan felis luctus nec consectetur purus commodo. Phasellus sodales est nec massa imperdiet commodo. Maecenas risus nulla, placerat vel vestibulum vel, dapibus quis libero.
  
-Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel justo cursus facilisis. Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.
+ Dan moet je eens hard roepen aan de voordeur. lsfh ozejrùoyhz pùs<fuhgiehsj wprgh eolhroh  ![test](/assets/images/1.png)
  
-Dit is wel straf. en nog beter.
+#### Inschrijvingen schooljaar 2015-2016
+
+![Inschrijvingen](/assets/images/inschrijvingen.jpg)
+ 
+De volgorde van aanmelding telt. Gelieve steeds de SIS-kaart of de KIDS-ID mee te brengen en eventueel het recentste rapport van de vorige school.
+
+#### Schoolreglement "De Bij" 2015-2016

@@ -1,0 +1,7 @@
+    <!-- Fixed simplenav -->
+	<p class="simplenav">			
+		{% for node in pages %}
+			<a href="{{node.url}}">{{node.title}}</a>{% if forloop.last == false %} | {% endif %}
+		{% endfor %}
+	</p>
+    <!-- /.simplenav -->
