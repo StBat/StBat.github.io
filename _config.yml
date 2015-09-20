@@ -6,9 +6,9 @@ author: Chrisanthropic
 keywords: jekyll, jekyll theme, jekyll framework, stuffthings
 description: > # this means to ignore newlines until "baseurl:"
   Witty description here.
-
-baseurl: /
-url: https://chrisanthropic.github.io
+ 
+baseurl: 
+url: http://stbat.github.io
 
 header: yes
 header_sm: images/banner-small.jpg
