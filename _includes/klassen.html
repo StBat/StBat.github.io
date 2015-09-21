@@ -1,9 +1,10 @@
-  <h2>Klassen</h2>
-  <ul>
-    {% for klas in site.klassen %}
-      <li>
-        <a href="{{ site.baseurl }}{{ klas.url }}">{% if site.titlecase %}{{ klas.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a> 
-      </li>
-    {% endfor %}
-  </ul>
-
+	<h2>Klassen</h2>
+	<ul>
+	{% for member in site.data.klassen %}
+	  <li>
+		<a href="https://github.com/{{ member.github }}">
+		  {{ member.name }}
+		</a>
+	  </li>
+	{% endfor %}
+	</ul>
