@@ -4,9 +4,29 @@
 - title: "blog"
   href: "/blog/"
 
-- title: "Onze klassen"
+- title: "Onze klassen1"
   subcategories:
     - title: "Kleuterafdeling"
+      subcategories:
+        - subtitle: "K1a"
+          subhref: "/documentation/sass.html"
+        - subtitle: "K1b"
+          subhref: "/documentation/sass.html"
+        - subtitle: "K1c"
+          subhref: "/documentation/sass.html"
+  
+- title: "Onze klassen2"
+  subcategories:
+    - subtitle: "K1a"
+      subhref: "/documentation/sass.html"
+    - subtitle: "K1b"
+      subhref: "/documentation/sass.html"
+    - subtitle: "K1c"
+      subhref: "/documentation/sass.html"
+  
+- title: "Onze klassen3"
+  subcategories:
+    - subtitle: "Kleuterafdeling"
       subcategories:
         - subtitle: "K1a"
           subhref: "/documentation/sass.html"
