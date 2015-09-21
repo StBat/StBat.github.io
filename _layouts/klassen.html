@@ -7,13 +7,42 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  <article class="post-content">
+
 	{% for klas in site.data.klassen %}
-	  <li>
-		<a href="{{ site.baseurl }}{{ klas.href }}">{% if klas.juf %}{{ klas.juf | titlecase }}{% else %}{{ klas.title }}{% endif %}</a> 
-	  </li>
+	<div class="col-lg-3 col-sm-6">	
+		<div class="card hovercard">
+			<div class="cardheader" style="background-image: url(/bolt/files/2015-04/K1a.jpg)">
+
+			</div>
+			<div class="avatar">
+				<img alt="" src="{{ site.baseurl }}{{ klas.juf-image}}">
+			</div>
+			<div class="info">
+				<div class="title">
+					<a target="_blank" href="klas/{{ klas.title }}">{{ klas.title }}</a>
+				</div>
+				<div class="desc"><b>{{ klas.title }}</b></div>
+				<div class="desc">{{ klas.juf | titlecase }}</div>
+				<div class="desc">Kleuterjuf</div>
+			</div>
+			<div class="bottom">
+				<a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/webmaniac">
+					<i class="fa fa-twitter"></i>
+				</a>
+				<a class="btn btn-danger btn-sm" rel="publisher"
+				   href="https://plus.google.com/+ahmshahnuralam">
+					<i class="fa fa-google-plus"></i>
+				</a>
+				<a class="btn btn-primary btn-sm" rel="publisher"
+				   href="https://plus.google.com/shahnuralam">
+					<i class="fa fa-facebook"></i>
+				</a>
+				<a class="btn btn-warning btn-sm" rel="publisher" href="https://plus.google.com/shahnuralam">
+					<i class="fa fa-behance"></i>
+				</a>
+			</div>
+		</div>
+	</div>	
 	{% endfor %}
-    {{ content }}
-  </article>
 
 </div>
