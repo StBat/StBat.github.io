@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: klassen
 title: "Lagere school"
 permalink: /klassen/lagere.html
 --- 

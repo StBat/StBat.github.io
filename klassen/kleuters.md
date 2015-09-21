@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: klassen
 title: "Kleuterschool"
 permalink: /klassen/kleuters.html
 --- 
