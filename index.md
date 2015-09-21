@@ -3,18 +3,16 @@ layout: default
 title: home
 ---
 
+**Line 0**
 
 <article class="row">
 
-	
-Line 1
-------
+**Line 1**
 
 
   <section class="small-12 large-8 columns page-content">
 
-Line 2
-------
+**Line 2**
 
 <h2>Source code <a href="https://github.com/chrisanthropic/slim-pickins-jekyll-theme">here</a></h2>
   
@@ -35,12 +33,13 @@ Line 2
   </ul>
   </section>
 
-Line 3
-------
+**Line 3**
+
 
     {% include asides/recent_posts.html %}
 	
-Line 4
-------
+**Line 4**
 
 </article>
+
+**Line 5**
