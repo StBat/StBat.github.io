@@ -1,8 +1,14 @@
 - title: "K1a"
   href: "#"
+  juf: Juf Tina Lievens
+  juf-image: tina_lievens.jpg
+
+- title: "K1b"
+  href: "#"
+  juf: Juf Ann Vandenstorme
+  juf-image: ann_vandenstorme.jpg
 
 - title: "K2a"
   href: "#"
-
-- title: "K3a"
-  href: "#"
+  juf: Juf Stephanie
+  juf-image: tina.jpg
