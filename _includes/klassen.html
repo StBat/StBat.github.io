@@ -2,7 +2,7 @@
   <ul>
     {% for klas in site.klassen %}
       <li>
-        <a href="{{ site.baseurl }}{{ klas.url }}">{% if site.titlecase %}{{ klas.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+        <a href="{{ site.baseurl }}{{ klas.url }}">{% if site.titlecase %}{{ klas.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a> 
       </li>
     {% endfor %}
   </ul>
