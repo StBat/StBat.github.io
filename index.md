@@ -3,13 +3,18 @@ layout: default
 title: home
 ---
 
-First level header
-==================
-
 
 <article class="row">
+
+	
+Line 1
+------------------
+
+
   <section class="small-12 large-8 columns page-content">
 
+Line 2
+------------------
 <h2>Source code <a href="https://github.com/chrisanthropic/slim-pickins-jekyll-theme">here</a></h2>
   
 <p>Slim Pickins is what I consider to be a minimal 'core' theme with everything I need to quickly develop new themes for Jekyll.</p>
@@ -28,5 +33,13 @@ First level header
     <li>Basic SEO</li>
   </ul>
   </section>
+
+Line 3
+------------------
+
     {% include asides/recent_posts.html %}
+	
+Line 4
+------------------
+
 </article>
