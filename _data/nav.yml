@@ -17,12 +17,12 @@
   
 - title: "Onze klassen2"
   subcategories:
-    - subtitle: "K1a"
-      subhref: "/documentation/sass.html"
-    - subtitle: "K1b"
-      subhref: "/documentation/sass.html"
-    - subtitle: "K1c"
-      subhref: "/documentation/sass.html"
+    - subtitle: "Kleuterschool"
+      subhref: "/klassen/kleuters.html"
+    - subtitle: "Lagere school"
+      subhref: "/klassen/lagere.html"
+    - subtitle: "Zorg"
+      subhref: "/klassen/kleuters.html"
   
 - title: "Onze klassen3"
   subcategories:
