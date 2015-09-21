@@ -9,8 +9,8 @@ layout: default
     </header>
 	<h2>Klassen</h2>
 	<ul>
-		{% for klas in site.klassen %}
-		  <li>
+		{% for klas in site.data.klassen %}
+		  <li> dgdshssdfhs
 			<a href="{{ site.baseurl }}{{ klas.url }}">{% if site.titlecase %}{{ klas.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a> 
 		  </li>
 		{% endfor %}
