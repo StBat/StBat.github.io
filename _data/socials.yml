@@ -7,14 +7,14 @@
 - title: "facebook"
   href: "#"
   
-- title: "tumblr"
-  href: "#"
+#- title: "tumblr"
+#  href: "#"
   
-- title: "twitter"
-  href: "https://twitter.com/"
+#- title: "twitter"
+#  href: "https://twitter.com/"
 
-- title: "github"
-  href: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
+#- title: "github"
+#  href: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
 
 - title: "linkedin"
   href: "https://www.linkedin.com/in/ctarwater"
