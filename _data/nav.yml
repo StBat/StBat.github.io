@@ -6,7 +6,7 @@
 
 - title: "Onze klassen"
   subcategories:
-    - subtitle: "Kleuterafdeling"
+    - title: "Kleuterafdeling"
       subcategories:
         - subtitle: "K1a"
           subhref: "/documentation/sass.html"
