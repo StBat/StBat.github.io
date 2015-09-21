@@ -8,7 +8,11 @@
   subcategories:
     - subtitle: "Kleuterafdeling"
       subcategories:
-        - subtitle: "Kleuterafdeling"
+        - subtitle: "K1a"
+          subhref: "/documentation/sass.html"
+        - subtitle: "K1b"
+          subhref: "/documentation/sass.html"
+        - subtitle: "K1c"
           subhref: "/documentation/sass.html"
   
 - title: "documentation"
