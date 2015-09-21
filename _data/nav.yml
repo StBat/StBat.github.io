@@ -4,6 +4,13 @@
 - title: "blog"
   href: "/blog/"
 
+- title: "Onze klassen"
+  subcategories:
+    - subtitle: "Kleuterafdeling"
+      subcategories:
+        - subtitle: "Kleuterafdeling"
+          subhref: "/documentation/sass.html"
+  
 - title: "documentation"
   subcategories:
     - subtitle: "sass"
