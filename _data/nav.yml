@@ -4,6 +4,15 @@
 - title: "blog"
   href: "/blog/"
 
+- title: "Werking"
+  subcategories:
+    - subtitle: "Welkom"
+      subhref: "/werking/welkom.html"
+    - subtitle: "Kleuterschool"
+      subhref: "/werking/kleuterschool.html"
+    - subtitle: "Lagere school"
+      subhref: "/werking/lagereschool.html"
+  
 - title: "Onze klassen"
   subcategories:
     - subtitle: "Kleuterschool"
