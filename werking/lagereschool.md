@@ -14,6 +14,7 @@ permalink: /werking/lagereschool.html
 *   Als je op de speelplaats komt, zal je het meteen merken dat er heel wat kinderen rondlopen. Dit mag je niet afschrikken; zoek naar kinderen van jouw leeftijd, dan voel je je snel thuis.
 *   We hebben een grote speelplaats die ingedeeld is in verschillende zones. Ook gelden hier een aantal afspraken die zichtbaar zijn aan de deur en ook besproken worden in de klas.
 *   Als het belsignaal gaat, gaan we vlug in de rij staan.
+![test](/images/welkom1.jpg)
 *   We zijn al groot genoeg om zelfstandig op de speelplaats te komen. Ouders nemen afscheid aan de afbakening van de speelplaats.
 *   Wat breng je zoal mee? Je schooltas natuurlijk! Boeken, schriften, schrijfmateriaal en eventueel andere benodigdheden krijg je op de eerste schooldag.
 *   Kom elke dag op tijd. De lessen beginnen om 8.30u. Leerlingen die te laat komen, melden zich eerst bij de directie of op het secretariaat. 
