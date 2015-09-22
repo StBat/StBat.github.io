@@ -9,17 +9,17 @@ layout: default
 
 
 	{% for klas in site.data.klassen %}
-	<section class="small-3 large-3 columns page-content">
+	<div class="small-12 large-3 columns page-content">
 		<div class="card hovercard">
 			<div class="cardheader" style="background-image: url({{ site.baseurl }}/images/{{ klas.klas-image}})">
 
 			</div>
 			<div class="avatar">
-				<img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}">
+				<a href="{{ klas.title }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
 			</div>
 			<div class="info">
 				<div class="title">
-					<a target="_blank" href="klas/{{ klas.title }}">{{ klas.title }}</a>
+					<a href="{{ klas.title }}">{{ klas.title }}</a>
 				</div>
 				<div class="desc"><b>{{ klas.title }}</b></div>
 				<div class="desc">{{ klas.juf | titlecase }}</div>
@@ -42,7 +42,7 @@ layout: default
 				</a>
 			</div>
 		</div>
-	</section>
+	</div>
 	{% endfor %}
 
 </div>
