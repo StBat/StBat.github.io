@@ -3,7 +3,16 @@ layout: page
 title: "Welkom"
 permalink: /werking/welkom.html
 --- 
-	
+
+|                                                                                                |               |       |
+| ---------------------------------------------------------------------------------------------- |:-------------:| -----:|
+| Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap,                  | test          |       |
+| en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat.        |               |       |
+| Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool                 |               |       |
+| (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw)                     |               |       |
+| en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.              |               |       |
+
+
 >Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap , en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.
 
 >De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
