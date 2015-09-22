@@ -6,7 +6,6 @@ permalink: /werking/welkom.html
 	
 ## Onze kleuterschool
  
-
 ### Wat biedt onze kleuterschool aan uw kind?
 
 *Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
