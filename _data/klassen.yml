@@ -3,33 +3,46 @@
   juf: Juf Tina Lievens
   juf-image: tina_lievens.jpg
   klas-image: K1a.jpg
+  functie: Kleuterjuf
 
 - title: "K1b"
   href: "#"
   juf: Juf Ann Vandenstorme
   juf-image: ann_vandenstorme.jpg
   klas-image: K1b.jpg
+  functie: Kleuterjuf
+
+- title: "K1c"
+  href: "#"
+  juf: Juf Tamara Verhamme en Juf Inge Lerno
+  juf-image: Stefanie.jpg
+  klas-image: K1c.jpg
+  functie: Kleuterjuf
 
 - title: "K2a"
   href: "#"
-  juf: Juf Stefanie
+  juf: Juf Stefanie Janssens
   juf-image: Stefanie.jpg
-  klas-image: K1c.jpg
+  klas-image: K2a.jpg
+  functie: Kleuterjuf
 
 - title: "K2b"
   href: "#"
-  juf: Juf Stefanie
+  juf: Juf Barbara Van den Borre
   juf-image: Stefanie.jpg
-  klas-image: K1c.jpg
+  klas-image: K2b.jpg
+  functie: Kleuterjuf
 
 - title: "K3a"
   href: "#"
-  juf: Juf Stefanie
+  juf: Juf Saskia Meganck
   juf-image: Stefanie.jpg
-  klas-image: K1c.jpg
+  klas-image: K3a.jpg
+  functie: Kleuterjuf
 
 - title: "K3b"
   href: "#"
-  juf: Juf Stefanie
+  juf: Juf Nadine Eeman
   juf-image: Stefanie.jpg
-  klas-image: K1c.jpg
+  klas-image: K3b.jpg
+  functie: Kleuterjuf
