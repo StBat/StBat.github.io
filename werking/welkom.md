@@ -3,16 +3,19 @@ layout: page
 title: "Welkom"
 permalink: /werking/welkom.html
 --- 
+
 <table width="100%">
   <tbody>
     <tr>
-      <td>Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.<br /><br /><br /></td>
+      <td>
+		Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke. <br>
+	    De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
+	  </td>
       <td width="40%"><img src="/images/welkom1.jpg" alt="welkom1" /></td>
     </tr>
   </tbody>
 </table>
 
-De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
 
 Onze school is een pluralistische gemeenschap met een opvoedkundige taak. Daarnaast vormen we een studiegemeenschap , die gekenmerkt is door dynamiek, open sfeer en creativiteit. Respect voor ieders godsdienstovertuiging, ras en cultuur streven we na. Ouders, directie, leerkrachten en leerlingen werken samen om iedereen de beste kansen tot volledige ontplooiing te bieden in een sociale geest. Dit vraagt veel inzet en begrip voor het anders– en eigen– zijn van iedereen. Vanuit die gezindheid wil de school de opvoeding en het onderwijs van uw kind behartigen. Hiervoor stellen we een aantal waarden voorop. Kinderen moeten zich kunnen verzoenen , moeten respect kunnen opbrengen voor elkaar en moeten verdraagzaam zijn.
 
