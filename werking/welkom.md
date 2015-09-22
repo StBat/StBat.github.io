@@ -3,10 +3,14 @@ layout: page
 title: "Welkom"
 permalink: /werking/welkom.html
 --- 
-
-|                       | -------------------------------------------------------- |
-| --------------------- | -------------------------------------------------------- |
-| Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.<br><br><br> |  ![welkom1](/images/welkom1.jpg)  |
+<table>
+  <tbody>
+    <tr>
+      <td>Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.<br /><br /><br /></td>
+      <td width="30%"><img src="/images/welkom1.jpg" alt="welkom1" /></td>
+    </tr>
+  </tbody>
+</table>
 
 De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
 
@@ -22,4 +26,6 @@ Kwaliteitsvol onderwijs is onze bekommernis. De overheid legt aan elke school de
 Onze school is een bloeiende gemeenschap, waarbij participanten als ouders, leerlingen, oudervereniging en de schoolraad ten zeerste gerespecteerd en gehoord worden. De visie van de school evolueert mee met de visie van alle betrokkenen.
 Kinderen, ouders, grootouders,…. Van harte welkom!
 
-![welkom2](/images/welkom2.jpg)
+|                                 |
+| :-----------------------------: |
+| ![welkom2](/images/welkom2.jpg) |
