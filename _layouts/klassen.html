@@ -15,14 +15,18 @@ layout: default
 
 			</div>
 			<div class="avatar">
-				<a href="{{ klas.title | lowercase }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
+				<a href="{{ klas.title | downcase }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
+				<br>{{ "FFGhhdfg dgdfg"|capitalize }}
+				<br>{{ "FFGhhdfg dgdfg"|lower }}
+				<br>{{ "FFGhhdfg dgdfg"|title }}
+				<br>{{ "FFGhhdfg dgdfg"|upper }}			
 			</div>
 			<div class="info">
 				<div class="title">
 					<a href="{{ klas.title }}">{{ klas.title | lowercase }}</a>
 				</div>
 				<div class="desc"><b>{{ klas.title }}</b></div>
-				<div class="desc">{{ klas.juf | titlecase }}</div>
+				<div class="desc">{{ klas.juf | uppercase }}</div>
 				<div class="desc">Kleuterjuf</div>
 			</div>
 			<div class="bottom">
