@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: page
 title: "Welkom"
 permalink: /werking/welkom.html
@@ -15,8 +15,8 @@ permalink: /werking/welkom.html
 *Een kindvriendelijke ruimte met een grote verscheidenheid aan speelgoed en materiaal.
 *Verkenning van de omgeving en het terrein.
 *Wederzijds respect, geven en nemen, weerbaar worden, rekening houden met anderen.
-*Samen spelen, samen aan een opdracht werken, beurt afwachten….
-*Bevordering van de taalontwikkeling en het geheugen van de kleuter door verhaaltjes, poppenkast, leesprikkels….
+*Samen spelen, samen aan een opdracht werken, beurt afwachten.
+*Bevordering van de taalontwikkeling en het geheugen van de kleuter door verhaaltjes, poppenkast, leesprikkels.
 *Stimulering van waarneming met alle zintuigen.
 *Groepsgesprekken waardoor kleuters hun gedachten en gevoelens onder woorden leren te brengen, te luisteren naar elkaar.
 *Allerlei knutselwerk, spelen met klei en verf, ter bevordering van de vingervaardigheid.
