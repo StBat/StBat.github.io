@@ -8,14 +8,14 @@ permalink: /werking/welkom.html
   <tbody>
     <tr>
       <td>
-		Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke. <br>
+		Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke. <br><br>
 	    De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
 	  </td>
       <td width="40%"><img src="/images/welkom1.jpg" alt="welkom1" /></td>
     </tr>
   </tbody>
 </table>
-
+<br><br>
 
 Onze school is een pluralistische gemeenschap met een opvoedkundige taak. Daarnaast vormen we een studiegemeenschap , die gekenmerkt is door dynamiek, open sfeer en creativiteit. Respect voor ieders godsdienstovertuiging, ras en cultuur streven we na. Ouders, directie, leerkrachten en leerlingen werken samen om iedereen de beste kansen tot volledige ontplooiing te bieden in een sociale geest. Dit vraagt veel inzet en begrip voor het anders– en eigen– zijn van iedereen. Vanuit die gezindheid wil de school de opvoeding en het onderwijs van uw kind behartigen. Hiervoor stellen we een aantal waarden voorop. Kinderen moeten zich kunnen verzoenen , moeten respect kunnen opbrengen voor elkaar en moeten verdraagzaam zijn.
 
@@ -27,8 +27,10 @@ Onze school is een dynamische school zonder drempels, een school die gekenmerkt 
 Kwaliteitsvol onderwijs is onze bekommernis. De overheid legt aan elke school de strikt omschreven ontwikkelingsdoelen en eindtermen op. De school verbindt er zich toe om deze opdracht met de grootste deskundigheid tot een goed einde te brengen. Er is niet alleen ruimte voor theorie. Kinderen moeten ook ruiken, zien, voelen en horen wat ze leren. Kinderen moeten leren hun talenten te ontdekken. Zo kunnen ze uitgroeien tot persoonlijkheden die kritisch kunnen staan tegenover de hen omringende werkelijkheid. Het dynamische schoolteam probeert de dagelijkse leerinhouden op een aangename interactieve wijze door te geven aan de leerlingen waarbij onderwijsvernieuwingen vaak gebruikt worden. Op vlak van ICT wil de school koploper zijn. Vanaf de eerste kleuterklas maken kleuters kennis met de PC. In alle lagere klassen is een interactief schoolbord aanwezig waardoor de informatietechnologie permanent aanwezig is in de klas. Hiernaast legt de school ook het accent op sport en beweging. Alle leerlingen hebben twee lesuren per week lichamelijke opvoeding van leerkrachten LO, en gaan wekelijks zwemmen .
 
 Onze school is een bloeiende gemeenschap, waarbij participanten als ouders, leerlingen, oudervereniging en de schoolraad ten zeerste gerespecteerd en gehoord worden. De visie van de school evolueert mee met de visie van alle betrokkenen.
+
 Kinderen, ouders, grootouders,…. Van harte welkom!
 
+<br><br>
 <table style="width: 100%">
   <tbody>
     <tr>
