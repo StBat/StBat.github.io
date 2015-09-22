@@ -4,13 +4,9 @@ title: "Welkom"
 permalink: /werking/welkom.html
 --- 
 
-|                                                                                                |               |       |
-| ---------------------------------------------------------------------------------------------- |:-------------:| -----:|
-| Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap,                  | test          |       |
-| en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat.        |               |       |
-| Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool                 |               |       |
-| (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw)                     |               |       |
-| en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.              |               |       |
+|        |               |
+| -----  |:-------------:|
+| Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.   |   >Image  |
 
 
 >Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap , en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.
