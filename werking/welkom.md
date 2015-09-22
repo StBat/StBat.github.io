@@ -3,11 +3,11 @@ layout: page
 title: "Welkom"
 permalink: /werking/welkom.html
 --- 
-<table>
+<table width="100%">
   <tbody>
     <tr>
       <td>Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.<br /><br /><br /></td>
-      <td width="30%"><img src="/images/welkom1.jpg" alt="welkom1" /></td>
+      <td width="40%"><img src="/images/welkom1.jpg" alt="welkom1" /></td>
     </tr>
   </tbody>
 </table>
@@ -26,6 +26,10 @@ Kwaliteitsvol onderwijs is onze bekommernis. De overheid legt aan elke school de
 Onze school is een bloeiende gemeenschap, waarbij participanten als ouders, leerlingen, oudervereniging en de schoolraad ten zeerste gerespecteerd en gehoord worden. De visie van de school evolueert mee met de visie van alle betrokkenen.
 Kinderen, ouders, grootouders,…. Van harte welkom!
 
-|                                 |
-| :-----------------------------: |
-| ![welkom2](/images/welkom2.jpg) |
+<table style="width: 100%">
+  <tbody>
+    <tr>
+      <td  style="text-align: center;width: 100%"><img src="/images/welkom2.jpg" alt="welkom2" /></td>
+    </tr>
+  </tbody>
+</table>
