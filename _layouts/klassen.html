@@ -15,11 +15,11 @@ layout: default
 
 			</div>
 			<div class="avatar">
-				<a href="{{ klas.title }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
+				<a href="{{ klas.title | lower }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
 			</div>
 			<div class="info">
 				<div class="title">
-					<a href="{{ klas.title }}">{{ klas.title }}</a>
+					<a href="{{ klas.title }}">{{ klas.title | lower }}</a>
 				</div>
 				<div class="desc"><b>{{ klas.title }}</b></div>
 				<div class="desc">{{ klas.juf | titlecase }}</div>
