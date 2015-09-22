@@ -16,11 +16,22 @@ permalink: /werking/welkom.html
   </tbody>
 </table>
 
-<style>
-p {
- display: inline-block;
+<style> 
+.test {
+    width: 45%;
+    border: 1px solid #c3c3c3;
+    display: inline-block;
+vertical-align:top;
 }
 </style>
+
+{: .test}
+Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap, en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke. <br><br>
+De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
+
+{: .test}
+![welkom1](/images/welkom1.jpg)
+
 
 Onze school is een pluralistische gemeenschap met een opvoedkundige taak. Daarnaast vormen we een studiegemeenschap , die gekenmerkt is door dynamiek, open sfeer en creativiteit. Respect voor ieders godsdienstovertuiging, ras en cultuur streven we na. Ouders, directie, leerkrachten en leerlingen werken samen om iedereen de beste kansen tot volledige ontplooiing te bieden in een sociale geest. Dit vraagt veel inzet en begrip voor het anders– en eigen– zijn van iedereen. Vanuit die gezindheid wil de school de opvoeding en het onderwijs van uw kind behartigen. Hiervoor stellen we een aantal waarden voorop. Kinderen moeten zich kunnen verzoenen , moeten respect kunnen opbrengen voor elkaar en moeten verdraagzaam zijn.
 
