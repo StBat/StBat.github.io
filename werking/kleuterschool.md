@@ -6,9 +6,9 @@ permalink: /werking/kleuterschool.html
 
 **Wat biedt onze kleuterschool aan uw kind?**
 
-Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
-Activiteiten die aansluiten bij de ervaringen en de belangstelling van de kleuter.
-Een dagindeling die afgestemd is op maat van het kind.
+*   Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
+*   Activiteiten die aansluiten bij de ervaringen en de belangstelling van de kleuter.
+*   Een dagindeling die afgestemd is op maat van het kind.
 Speelkameraadjes.
 Een kindvriendelijke ruimte met een grote verscheidenheid aan speelgoed en materiaal.
 Verkenning van de omgeving en het terrein.
