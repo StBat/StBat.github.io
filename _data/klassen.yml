@@ -14,15 +14,22 @@
 
 - title: "K1c"
   href: "#"
-  juf: Juf Tamara Verhamme en Juf Inge Lerno
-  juf-image: Stefanie.jpg
+  juf: Juf Inge Lerno
+  juf-image: inge_lerno.jpg
+  klas-image: K1c.jpg
+  functie: Kleuterjuf
+
+- title: "K1c"
+  href: "#"
+  juf: Juf Tamara Verhamme
+  juf-image: tamara_verhamme.jpg
   klas-image: K1c.jpg
   functie: Kleuterjuf
 
 - title: "K2a"
   href: "#"
   juf: Juf Stefanie Janssens
-  juf-image: Stefanie.jpg
+  juf-image: stefanie_janssens.jpg
   klas-image: K2a.jpg
   functie: Kleuterjuf
 
