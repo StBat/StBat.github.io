@@ -4,71 +4,18 @@ title: "Welkom"
 permalink: /werking/welkom.html
 --- 
 	
-## Onze kleuterschool
- 
-### Wat biedt onze kleuterschool aan uw kind?
+>Onze school maakt deel uit van het GO!, Onderwijs van de Vlaamse Gemeenschap , en staat borg voor kwaliteitsvol onderwijs in een kindvriendelijk leef– en leerklimaat. Op onze campus zijn ook nog een kinderdagverblijf gehuisvest, een middenschool (eerste graad secundair onderwijs van het Koninklijk Atheneum Denderleeuw) en de tweede en derde graad technisch en beroepsonderwijs van het KTA Liedekerke.
 
-*   Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
-*   Activiteiten die aansluiten bij de ervaringen en de belangstelling van de kleuter.
-*   Een dagindeling die afgestemd is op maat van het kind.
-*   Speelkameraadjes.
-*   Een kindvriendelijke ruimte met een grote verscheidenheid aan speelgoed en materiaal.
-*   Verkenning van de omgeving en het terrein.
-*   Wederzijds respect, geven en nemen, weerbaar worden, rekening houden met anderen.
-*   Samen spelen, samen aan een opdracht werken, beurt afwachten.
-*   Bevordering van de taalontwikkeling en het geheugen van de kleuter door verhaaltjes, poppenkast, leesprikkels.
-*   Stimulering van waarneming met alle zintuigen.
-*   Groepsgesprekken waardoor kleuters hun gedachten en gevoelens onder woorden leren te brengen, te luisteren naar elkaar.
-*   Allerlei knutselwerk, spelen met klei en verf, ter bevordering van de vingervaardigheid.
-*   Zelfstandig werk door te leren opruimen, taakjes uitvoeren, schoenveters vastknopen, werkjes te plannen, contractwerk en hoekenwerk
-*   Lichaamsoefeningen waardoor de kleuter zich bewust wordt van zijn eigen lichaam en van de ruimte.
-*   Twee keer per week beweginglessen van een leerkracht Lichamelijke Opvoeding.
-*   Watergewenning in de tweede en derde kleuterklas.
-*   Liedjes zingen, dansen en muziekinstrumenten bespelen die goed zijn voor de ontwikkeling van ritme en melodie.
+>De school is gelegen aan de Kleemputtenstraat van Liedekerke, niet zo ver van het station en beschikt over heel wat groenvoorzieningen en ruime terreinen. Kinderen kunnen er zich op alle domeinen maximaal ontplooien. In een gemeente als Liedekerke zijn kinderen uit verschillende culturen en zeer uiteenlopende milieus aanwezig. Al deze kinderen, zonder onderscheid, zijn in onze school welkom. Samen met het hele onderwijsteam en alle medewerkers willen wij onze onderwijstaak waarmaken.
 
-** Hartelijk welkom in onze basisschool De Bij. **
+>Onze school is een pluralistische gemeenschap met een opvoedkundige taak. Daarnaast vormen we een studiegemeenschap , die gekenmerkt is door dynamiek, open sfeer en creativiteit. Respect voor ieders godsdienstovertuiging, ras en cultuur streven we na. Ouders, directie, leerkrachten en leerlingen werken samen om iedereen de beste kansen tot volledige ontplooiing te bieden in een sociale geest. Dit vraagt veel inzet en begrip voor het anders– en eigen– zijn van iedereen. Vanuit die gezindheid wil de school de opvoeding en het onderwijs van uw kind behartigen. Hiervoor stellen we een aantal waarden voorop. Kinderen moeten zich kunnen verzoenen , moeten respect kunnen opbrengen voor elkaar en moeten verdraagzaam zijn.
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+>Onze school wil kinderen begeleiden naar zelfstandigheid. We nemen ze ernstig en laten hen aan het woord komen. We houden rekening met hun aanleg, hun persoonlijke ervaringen, hun werk– en leefhouding. We laten hen zichzelf ontdekken, doch bieden daarbij de nodige structuur aan, samen met goede afspraken.
+We hebben ook aandacht voor alle kinderen, ook voor hen die het moeilijker hebben. We blijven geloven in de ontplooiingskansen van elk kind. Samen met het zorgteam, het CLB, de ouders en de leerling worden alle mogelijke oplossingen gezocht om deze kinderen te helpen. Knappere leerlingen worden gestimuleerd en uitgedaagd in hun kunnen.
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
+>Onze school is een dynamische school zonder drempels, een school die gekenmerkt is door haar gemoedelijke sfeer in een oase van rust en groen. Deze leeromgeving geeft kinderen een gevoel van ‘buiten zijn’, van ‘natuurbeleving’. Kinderen en ouders voelen er zich snel thuis. Kleuters ervaren geborgenheid en veiligheid. We staan garant voor een vlot contact met leerkrachten en directie. Dit alles draagt ertoe bij dat de overgang van thuis of de kribbe naar de kleuterschool en nadien naar de lagere school bijna onopgemerkt verloopt. Bovendien wordt binnen de school aan deze schakelmomenten voldoende aandacht besteed binnen de klaswerking.
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+>Kwaliteitsvol onderwijs is onze bekommernis. De overheid legt aan elke school de strikt omschreven ontwikkelingsdoelen en eindtermen op. De school verbindt er zich toe om deze opdracht met de grootste deskundigheid tot een goed einde te brengen. Er is niet alleen ruimte voor theorie. Kinderen moeten ook ruiken, zien, voelen en horen wat ze leren. Kinderen moeten leren hun talenten te ontdekken. Zo kunnen ze uitgroeien tot persoonlijkheden die kritisch kunnen staan tegenover de hen omringende werkelijkheid. Het dynamische schoolteam probeert de dagelijkse leerinhouden op een aangename interactieve wijze door te geven aan de leerlingen waarbij onderwijsvernieuwingen vaak gebruikt worden. Op vlak van ICT wil de school koploper zijn. Vanaf de eerste kleuterklas maken kleuters kennis met de PC. In alle lagere klassen is een interactief schoolbord aanwezig waardoor de informatietechnologie permanent aanwezig is in de klas. Hiernaast legt de school ook het accent op sport en beweging. Alle leerlingen hebben twee lesuren per week lichamelijke opvoeding van leerkrachten LO, en gaan wekelijks zwemmen .
 
-
-## This is a header.
-> 
-> 1.   This is the first list item.
-> 2.   This is the second list item.
-> 
-> Here's some example code:
-> 
->     return shell_exec("echo $input | $markdown_script");
-
-*   Red
-*   Green
-*   Blue
-
-is equivalent to:
-
-+   Red
-+   Green
-+   Blue
-
-and:
-
--   Red
--   Green
--   Blue
-
-Ordered lists use numbers followed by periods:
-
-1.  Bird
-2.  McHale
-3.  Parish
+>Onze school is een bloeiende gemeenschap, waarbij participanten als ouders, leerlingen, oudervereniging en de schoolraad ten zeerste gerespecteerd en gehoord worden. De visie van de school evolueert mee met de visie van alle betrokkenen.
+Kinderen, ouders, grootouders,…. Van harte welkom!
