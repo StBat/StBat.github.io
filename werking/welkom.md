@@ -16,7 +16,11 @@ permalink: /werking/welkom.html
   </tbody>
 </table>
 
-
+<style>
+p {
+ display: inline-block;
+}
+</style>
 
 Onze school is een pluralistische gemeenschap met een opvoedkundige taak. Daarnaast vormen we een studiegemeenschap , die gekenmerkt is door dynamiek, open sfeer en creativiteit. Respect voor ieders godsdienstovertuiging, ras en cultuur streven we na. Ouders, directie, leerkrachten en leerlingen werken samen om iedereen de beste kansen tot volledige ontplooiing te bieden in een sociale geest. Dit vraagt veel inzet en begrip voor het anders– en eigen– zijn van iedereen. Vanuit die gezindheid wil de school de opvoeding en het onderwijs van uw kind behartigen. Hiervoor stellen we een aantal waarden voorop. Kinderen moeten zich kunnen verzoenen , moeten respect kunnen opbrengen voor elkaar en moeten verdraagzaam zijn.
 
@@ -39,14 +43,5 @@ Kinderen, ouders, grootouders,…. Van harte welkom!
 </style>
 
 {: .center}
-![test](/images/welkom1.jpg)
+![welkom2](/images/welkom2.jpg)
 
-
-
-<table style="width: 100%">
-  <tbody>
-    <tr>
-      <td  style="text-align: center;width: 100%"><img src="/images/welkom2.jpg" alt="welkom2" /></td>
-    </tr>
-  </tbody>
-</table>
