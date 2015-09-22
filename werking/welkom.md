@@ -31,6 +31,16 @@ Onze school is een bloeiende gemeenschap, waarbij participanten als ouders, leer
 
 Kinderen, ouders, grootouders,…. Van harte welkom!
 
+<style>
+/* To center images */
+.center {
+    text-align: center;
+}
+</style>
+
+{: .center}
+![test](/images/welkom1.jpg)
+
 
 
 <table style="width: 100%">
