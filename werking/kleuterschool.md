@@ -4,6 +4,8 @@ title: "Kleuterschool"
 permalink: /werking/kleuterschool.html
 --- 
 
+## Onze kleuterschool
+ 
 **Wat biedt onze kleuterschool aan uw kind?**
 
 *   Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
@@ -25,7 +27,7 @@ Watergewenning in de tweede en derde kleuterklas.
 Liedjes zingen, dansen en muziekinstrumenten bespelen die goed zijn voor de ontwikkeling van ritme en melodie.
  
 
-De eerste schooldagen...
+### De eerste schooldagen...
 
 Van de huiselijke, vertrouwde omgeving of van het kinderdagverblijf naar de kleuterschool is een grote stap. Daarom schenken we graag bijzondere aandacht aan deze overgang.
 Het is goed je kind mee te brengen bij de inschrijving. De school maakt graag tijd voor jullie zodat er al kennis kan gemaakt worden met de klas en de kleuters. Ook een bezoekje samen met mama aan de klas vooraf kan perfect.
