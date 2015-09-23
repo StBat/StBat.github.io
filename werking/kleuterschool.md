@@ -37,8 +37,9 @@ permalink: /werking/kleuterschool.html
 *   Jassen, schooltassen, brooddozen, sjaals en mutsen bij voorkeur naamtekenen, om bij verlies makkelijker terug te vinden.
 *   Verloren voorwerpen zijn terug te vinden in de bak van de kleuterhal of in de opvang.
 *   De juffen zijn ‘s morgens op de speelplaats te bereiken voor eventuele mededelingen of praktische info.
-*   Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.
 *   Iedere dag geeft de juf een ‘heen– en weerboekje’ mee met mededelingen en info over het actuele thema in de klas. Dit boekje dient als communicatiemiddel tussen de school en de ouders, dus aarzel niet om hier eventuele boodschappen ook in te noteren.
+>   **Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.**
+>Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.
  
 ### **Dagindeling**
 
@@ -53,4 +54,4 @@ permalink: /werking/kleuterschool.html
 *   14.30u.—15.20u.: vervolg activiteiten in de klas + afronden van de dag
 *   15.20u.: kleuters die meteen naar huis gaan, kunnen afgehaald worden aan de trap ( achteringang) van de kleuterafdeling. De kinderen die met de schoolbus naar huis gaan of die naar de naschoolse opvang gaan, worden onder begeleiding van de klasjuf bij de betrokken mensen gebracht
 *   Tot 18.00u. is er betalende naschoolse opvang in de kleuteropvang, ook op woensdag.
-*   ! Op woensdag eindigen de lessen om 12.10u. , samen met de lagere school !
+*   **Op woensdag eindigen de lessen om 12.10u. , samen met de lagere school.**
