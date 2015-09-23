@@ -1,8 +1,8 @@
 - title: "home"
   href: "/"
 
-- title: "blog"
-  href: "/blog/"
+- title: "nieuws"
+  href: "/nieuws/"
 
 - title: "Werking"
   subcategories:
@@ -12,6 +12,12 @@
       subhref: "/werking/kleuterschool.html"
     - subtitle: "Lagere school"
       subhref: "/werking/lagereschool.html"
+    - subtitle: "Doorstroming"
+      subhref: "/werking/doorstroming.html"
+    - subtitle: "Nuttige gegevens"
+      subhref: "/werking/nuttigegegevens.html"
+    - subtitle: "Schoolreglement"
+      subhref: "/werking/schoolreglement.html"
   
 - title: "Onze klassen"
   subcategories:
@@ -20,7 +26,7 @@
     - subtitle: "Lagere school"
       subhref: "/klassen/lagere.html"
     - subtitle: "Zorg"
-      subhref: "/klassen/kleuters.html"
+      subhref: "/klassen/zorg.html"
   
 #- title: "documentation"
 #  subcategories:
