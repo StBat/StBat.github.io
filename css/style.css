@@ -1,0 +1,12 @@
+.test {
+    width: 50%;
+    border: 1px solid #c3c3c3;
+    display: inline-block;
+vertical-align:top;
+}
+.image_right {
+	float: right;
+}
+.image_center {
+    text-align: center;
+}

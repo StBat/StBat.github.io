@@ -2,30 +2,25 @@
 layout: default
 ---
 <div class="row">
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
-	{% for klas in site.data.klassen %}
+  	{% for klas in site.data.klassen %}
+	{% if page.group == klas.group %}
 	<div class="small-12 medium-6 large-3 columns page-content">
 		<div class="card hovercard">
 			<div class="cardheader" style="background-image: url({{ site.baseurl }}/images/{{ klas.klas-image}})">
 
 			</div>
 			<div class="avatar">
-				<a href="{{ klas.title | downcase }}"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>
-				<br>{{ "FFGhhdfg dgdfg"|capitalize }}
-				<br>{{ "FFGhhdfg dgdfg"|lower }}
-				<br>{{ "FFGhhdfg dgdfg"|title }}
-				<br>{{ "FFGhhdfg dgdfg"|upper }}					
+				<a href="{{ site.baseurl }}/klassen/{{ klas.title }}.html"><img alt="" src="{{ site.baseurl }}/images/{{ klas.juf-image}}"></a>					
 			</div>
 			<div class="info">
 				<div class="title">
-					<a href="{{ klas.title }}">{{ klas.title | lowercase }}</a>
+					<a href="{{ site.baseurl }}/klassen/{{ klas.title }}.html">{{ klas.title | capitalize }}</a>
 				</div>
-				<div class="desc"><b>{{ klas.title }}</b></div>
-				<div class="desc">{{ klas.juf | uppercase }}</div>
-				<div class="desc">Kleuterjuf</div>
+				<div class="desc"><b>{{ klas.juf }}</b></div>
+				<div class="desc">{{ klas.functie | capitalize }}</div>
 			</div>
 			<div class="bottom">
 				<a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/webmaniac">
@@ -45,6 +40,7 @@ layout: default
 			</div>
 		</div>
 	</div>
+	{% endif %}
 	{% endfor %}
 
 </div>

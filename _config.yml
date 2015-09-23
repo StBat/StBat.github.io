@@ -39,7 +39,7 @@ feed:
 #sass:
 #    style: :compressed
 
-permalink: /blog/:year/:title
+permalink: /nieuws/:year/:title
 
 #### SEO Stuff
 # Google Analytics

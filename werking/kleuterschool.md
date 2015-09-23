@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Onze kleuterschool"
+title: "Kleuterschool"
 permalink: /werking/kleuterschool.html
 --- 
  
 ### **Wat biedt onze kleuterschool aan uw kind?**
+
+{: .image_right}
+![kleuterklas1](/images/kleuterklas1.jpg)
 
 *   Begeleiding door kleuteronderwijzers die de ontwikkeling van uw kind op verschillende manieren stimuleren.
 *   Activiteiten die aansluiten bij de ervaringen en de belangstelling van de kleuter.
@@ -23,8 +26,11 @@ permalink: /werking/kleuterschool.html
 *   Twee keer per week beweginglessen van een leerkracht Lichamelijke Opvoeding.
 *   Watergewenning in de tweede en derde kleuterklas.
 *   Liedjes zingen, dansen en muziekinstrumenten bespelen die goed zijn voor de ontwikkeling van ritme en melodie.
- 
+
 ### **De eerste schooldagen...**
+
+{: .image_right}
+![kleuterklas2](/images/kleuterklas2.jpg) 
 
 *   Van de huiselijke, vertrouwde omgeving of van het kinderdagverblijf naar de kleuterschool is een grote stap. Daarom schenken we graag bijzondere aandacht aan deze overgang.
 *   Het is goed je kind mee te brengen bij de inschrijving. De school maakt graag tijd voor jullie zodat er al kennis kan gemaakt worden met de klas en de kleuters. Ook een bezoekje samen met mama aan de klas vooraf kan perfect.
@@ -38,9 +44,8 @@ permalink: /werking/kleuterschool.html
 *   Verloren voorwerpen zijn terug te vinden in de bak van de kleuterhal of in de opvang.
 *   De juffen zijn ‘s morgens op de speelplaats te bereiken voor eventuele mededelingen of praktische info.
 *   Iedere dag geeft de juf een ‘heen– en weerboekje’ mee met mededelingen en info over het actuele thema in de klas. Dit boekje dient als communicatiemiddel tussen de school en de ouders, dus aarzel niet om hier eventuele boodschappen ook in te noteren.
->   **Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.**
->Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.
- 
+*   **Indien uw kind ziek of afwezig is, gelieve de school hiervan op de hoogte te brengen. Dit kan telefonisch 053 68 19 26 of via mail info@debij.be. Dank bij voorbaat.**
+
 ### **Dagindeling**
 
 *   Vanaf 7.00u. Tot 8.15u. : voorschoolse opvang (betalend tot 8.15u) in het kleutergebouw.

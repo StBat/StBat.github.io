@@ -6,6 +6,9 @@ permalink: /werking/lagereschool.html
 	
 ### **Wat biedt onze lagere school aan uw kind?**
 
+{: .image_right}
+![lagereklas1](/images/lagereklas1.jpg)
+
 *   Binnen de lagere school wordt gewerkt aan de eindtermen voor de domeinen wiskunde, Nederlands, muzische vorming , lichamelijke opvoeding, wereldoriëntatie en lichamelijke opvoeding . Ook de leergebiedoverschrijdende eindtermen als sociale vaardigheden , ICT en leren leren komen aan bod. 
 *   Binnen alle klassen wordt zelfstandig werk gestimuleerd. Werkvormen als hoekenwerk, contractwerk, partnerlezen, groepswerk en CLIM komen frequent voor waardoor leerlingen leren omgaan met planning, taakverantwoordelijkheid en zelfstandigheid.
 *   ICT staat centraal. In alle klassen is een digitaal schoolbord aanwezig waardoor leermiddelen, informatie, internet, beeld en geluid binnen handbereik zijn voor alle kinderen. Ook zijn er overal verschillende PC’s aanwezig die in de klaspraktijk gebruikt worden.
@@ -20,6 +23,9 @@ permalink: /werking/lagereschool.html
 
 ### **Dagindeling**
 
+{: .image_right}
+![lagereklas2](/images/lagereklas2.jpg)
+
 *   8.00u.—8.30u. : onthaal op de lagere speelplaats: 2 leerkrachten doen toezicht en zijn bereikbaar voor mededelingen of vragen
 *   8.30u.—10.10u.: voormiddaglessen
 *   Speeltijd van 10.10u. tot 10.30u.
@@ -31,6 +37,9 @@ permalink: /werking/lagereschool.html
 *   15.20u.: kinderen die meteen naar huis gaan, kunnen afgehaald worden aan de trap (ingang van het hoofdgebouw) van de lagere school. De kinderen die met de schoolbus naar huis gaan of die naar de naschoolse opvang gaan, worden onder begeleiding van de klasjuf bij de betrokken mensen gebracht. Kinderen die zelfstandig naar huis gaan ( met de fiets of te voet), worden door leerkrachten begeleid tot aan de verkeerslichten van de Affligemsestraat of de Stationsstraat. Niemand verlaat alleen het schooldomein. Wie dit toch doet, doet dit op eigen risico.
 
 ### **Voor—en naschoolse opvang**
+
+{: .image_right}
+![kleuterklas4](/images/kleuterklas4.jpg)
 
 *   Vanaf 7.00u. tot 8.15u. : betalende voorschoolse opvang in het lokaal naast het schoolrestaurant.
 *   Tot 18.00u. is er betalende naschoolse opvang in de opvang, ook op woensdag.
