@@ -1,4 +1,4 @@
-- title: "K1a"
+- title: "k1a"
   group: kleuters
   href: "#"
   juf: Juf Tina Lievens
@@ -6,7 +6,7 @@
   klas-image: K1a.jpg
   functie: Kleuterjuf
 
-- title: "K1b"
+- title: "k1b"
   group: kleuters
   href: "#"
   juf: Juf Ann Vandenstorme
@@ -14,7 +14,7 @@
   klas-image: K1b.jpg
   functie: Kleuterjuf
 
-- title: "K1c"
+- title: "k1c"
   group: kleuters
   href: "#"
   juf: Juf Inge Lerno
@@ -22,7 +22,7 @@
   klas-image: K1c.jpg
   functie: Kleuterjuf
 
-- title: "K1c"
+- title: "k1c"
   href: "#"
   group: kleuters
   juf: Juf Tamara Verhamme
@@ -30,7 +30,7 @@
   klas-image: K1c.jpg
   functie: Kleuterjuf
 
-- title: "K2a"
+- title: "k2a"
   href: "#"
   group: kleuters
   juf: Juf Stefanie Janssens
@@ -38,7 +38,7 @@
   klas-image: K2a.jpg
   functie: Kleuterjuf
 
-- title: "K2b"
+- title: "k2b"
   href: "#"
   group: kleuters
   juf: Juf Barbara Van den Borre
@@ -46,7 +46,7 @@
   klas-image: K2b.jpg
   functie: Kleuterjuf
 
-- title: "K3a"
+- title: "k3a"
   href: "#"
   group: kleuters
   juf: Juf Saskia Meganck
@@ -54,7 +54,7 @@
   klas-image: K3a.jpg
   functie: Kleuterjuf
 
-- title: "K1b"
+- title: "k1b"
   href: "#"
   group: kleuters
   juf: Juf Nadine Eeman
@@ -62,115 +62,115 @@
   klas-image: K1b.jpg
   functie: Kleuterjuf
 
-- title: "L1a"
+- title: "l1a"
   href: "#"
   group: lagere
   juf: Juf Marina Van der Heyden
   juf-image: marina_van_der_heyden.jpg
-  klas-image: K1b.jpg
+  klas-image: L1a.png
   functie: juf
 
-- title: "L1b"
+- title: "l1b"
   href: "#"
   group: lagere
   juf: Juf Lies Vanderwulst
   juf-image: lies_vanderwulst.jpg
-  klas-image: K1b.jpg
+  klas-image: L1b.png
   functie: juf
 
-- title: "L2a"
+- title: "l2a"
   href: "#"
   group: lagere
   juf: Juf Katrien Asselman
   juf-image: katrien_asselman.jpg
-  klas-image: K1b.jpg
+  klas-image: L2a.png
   functie: juf
 
-- title: "L2b"
+- title: "l2b"
   href: "#"
   group: lagere
   juf: Juf Shari Stuerebaut
   juf-image: shari_stuerebaut.jpg
-  klas-image: K1b.jpg
+  klas-image: L2b.png
   functie: juf
 
-- title: "L3a"
+- title: "l3a"
   href: "#"
   group: lagere
   juf: L3a - Juf Margo Schouppe 
   juf-image: margo_schouppe.jpg
-  klas-image: K1b.jpg
+  klas-image: L3a.png
   functie: juf
 
-- title: "L3a"
+- title: "l3a"
   href: "#"
   group: lagere
   juf: Juf Natalie Malyster
   juf-image: natalie_malyster.jpg
-  klas-image: K1b.jpg
+  klas-image: L3a.png
   functie: juf
 
-- title: "L3b"
+- title: "l3b"
   href: "#"
   group: lagere
   juf: Juf Claudia Cammaert
   juf-image: claudia_cammaert.jpg
-  klas-image: K1b.jpg
+  klas-image: L3b.png
   functie: juf
 
-- title: "L3b"
+- title: "l3b"
   href: "#"
   group: lagere
   juf: Juf Katrien van den Borre
   juf-image: katrien_van_den_borre.jpg
-  klas-image: K1b.jpg
+  klas-image: L3b.png
   functie: juf
 
-- title: "L4a"
+- title: "l4a"
   href: "#"
   group: lagere
   juf: Juf Mieke Bogaert
   juf-image: mieke_bogaert.jpg
-  klas-image: K1b.jpg
+  klas-image: L4a.png
   functie: juf
 
-- title: "L4b"
+- title: "l4b"
   href: "#"
   group: lagere
   juf: Juf Elisa Van Brantegem
   juf-image: elisa_van_brantegem.jpg
-  klas-image: K1b.jpg
+  klas-image: L4b.png
   functie: juf
 
-- title: "L5a"
+- title: "l5a"
   href: "#"
   group: lagere
   juf: Juf Els Abé
   juf-image: els_abe.jpg
-  klas-image: K1b.jpg
+  klas-image: L5a.png
   functie: juf
 
-- title: "L5b"
+- title: "l5b"
   href: "#"
   group: lagere
   juf: Juf Shana Cooreman
   juf-image: shana_cooreman.jpg
-  klas-image: K1b.jpg
+  klas-image: L5b.png
   functie: juf
   
-- title: "L6a"
+- title: "l6a"
   href: "#"
   group: lagere
   juf: Juf Ann Gysels
   juf-image: ann_gysels.jpg
-  klas-image: K1b.jpg
+  klas-image: L6a.png
   functie: juf
 
-- title: "L6b"
+- title: "l6b"
   href: "#"
   group: lagere
   juf: Meester Joachim Hoebeke
   juf-image: joachim_hoebeke.jpg
-  klas-image: K1b.jpg
+  klas-image: L6b.png
   functie: meester
   
