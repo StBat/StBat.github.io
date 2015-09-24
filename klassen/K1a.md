@@ -4,11 +4,9 @@ title: "K1a"
 permalink: /klassen/k1a.html
 --- 
 	
-Includes the following variables for easy customization:
+**K1a**
 
-**Kleuterschool**
-
-* $primary-color
+* Dit is een test.
 * $secondary-color
 * $complimentary-color
 * $body-bg
