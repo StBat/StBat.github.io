@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: klas
 title: "K1b"
 permalink: /klassen/k1b.html
 --- 
