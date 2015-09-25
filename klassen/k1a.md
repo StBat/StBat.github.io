@@ -1,6 +1,6 @@
 ---
 layout: klas
-title: "K1a"
+title: k1a
 permalink: /klassen/k1a.html
 --- 
 	
