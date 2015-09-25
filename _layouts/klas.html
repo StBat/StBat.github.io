@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+<li>{{ page.title }}</li>
 {% for klas in site.data.klassen  %}
+<li>{{ klas.title }}</li>
 {% if klas.title == page.title  %}
 <div class="row">
   <header class="post-header">
