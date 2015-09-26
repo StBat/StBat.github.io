@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "K1c"
+layout: klas
+title: k1c
 permalink: /klassen/k1c.html
 --- 
 	

@@ -1,71 +1,71 @@
 - title: "k1a"
   group: kleuters
   href: "#"
-  juf: Juf Tina Lievens
-  juf-image: tina_lievens.jpg
+  juf: Tina Lievens
+  juf-image: tina_lievens.png
   klas-image: K1a.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k1b"
   group: kleuters
   href: "#"
-  juf: Juf Ann Vandenstorme
-  juf-image: ann_vandenstorme.jpg
+  juf: Ann Vandenstorme
+  juf-image: ann_vandenstorme.png
   klas-image: K1b.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k1c"
   group: kleuters
   href: "#"
-  juf: Juf Inge Lerno
-  juf-image: inge_lerno.jpg
+  juf: Inge Lerno
+  juf-image: inge_lerno.png
   klas-image: K1c.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k1c"
   href: "#"
   group: kleuters
-  juf: Juf Tamara Verhamme
-  juf-image: tamara_verhamme.jpg
+  juf: Tamara Verhamme
+  juf-image: tamara_verhamme.png
   klas-image: K1c.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k2a"
   href: "#"
   group: kleuters
-  juf: Juf Stefanie Janssens
-  juf-image: stefanie_janssens.jpg
+  juf: Stefanie Janssens
+  juf-image: stefanie_janssens.png
   klas-image: K2a.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k2b"
   href: "#"
   group: kleuters
-  juf: Juf Barbara Van den Borre
-  juf-image: Stefanie.jpg
+  juf: Barbara Van den Borre
+  juf-image: barbara_van_den_borre.png
   klas-image: K2b.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k3a"
   href: "#"
   group: kleuters
-  juf: Juf Saskia Meganck
-  juf-image: Stefanie.jpg
+  juf: Saskia Meganck
+  juf-image: saskia_meganck.png
   klas-image: K3a.jpg
-  functie: Kleuterjuf
+  functie: juf
 
 - title: "k3b"
   href: "#"
   group: kleuters
-  juf: Juf Nadine Eeman
-  juf-image: nadine_eeman.jpg
-  klas-image: K3b.jpg
-  functie: Kleuterjuf
+  juf: Nadine Eeman
+  juf-image: nadine_eeman.png
+  klas-image: K1b.jpg
+  functie: juf
 
 - title: "l1a"
   href: "#"
   group: lagere
-  juf: Juf Marina Van der Heyden
+  juf: Marina Van der Heyden
   juf-image: marina_van_der_heyden.png
   klas-image: L1a.png
   functie: juf
@@ -73,7 +73,7 @@
 - title: "l1b"
   href: "#"
   group: lagere
-  juf: Juf Lies Vanderwulst
+  juf: Lies Vanderwulst
   juf-image: lies_vanderwulst.png
   klas-image: L1b.png
   functie: juf
@@ -81,7 +81,7 @@
 - title: "l2a"
   href: "#"
   group: lagere
-  juf: Juf Katrien Asselman
+  juf: Katrien Asselman
   juf-image: katrien_asselman.png
   klas-image: L2a.png
   functie: juf
@@ -89,7 +89,7 @@
 - title: "l2b"
   href: "#"
   group: lagere
-  juf: Juf Shari Stuerebaut
+  juf: Shari Stuerebaut
   juf-image: shari_stuerebaut.png
   klas-image: L2b.png
   functie: juf
@@ -97,7 +97,7 @@
 - title: "l3a"
   href: "#"
   group: lagere
-  juf: L3a - Juf Margo Schouppe 
+  juf: Margo Schouppe 
   juf-image: margo_schouppe.png
   klas-image: L3a.png
   functie: juf
@@ -105,15 +105,15 @@
 - title: "l3a"
   href: "#"
   group: lagere
-  juf: Juf Natalie Malyster
-  juf-image: natalie_malyster.jpg
+  juf: Natalie Malyster
+  juf-image: naamloos_vrouw.png
   klas-image: L3a.png
   functie: juf
 
 - title: "l3b"
   href: "#"
   group: lagere
-  juf: Juf Claudia Cammaert
+  juf: Claudia Cammaert
   juf-image: claudia_cammaert.png
   klas-image: L3b.png
   functie: juf
@@ -121,23 +121,23 @@
 - title: "l3b"
   href: "#"
   group: lagere
-  juf: Juf Katrien van den Borre
-  juf-image: katrien_van_den_borre.jpg
+  juf: Katrien van den Borre
+  juf-image: katrien_van_den_borre.png
   klas-image: L3b.png
   functie: juf
 
 - title: "l4a"
   href: "#"
   group: lagere
-  juf: Juf Mieke Bogaert
-  juf-image: mieke_bogaert.jpg
+  juf: Mieke Bogaert
+  juf-image: mieke_bogaert.png
   klas-image: L4a.png
   functie: juf
 
 - title: "l4b"
   href: "#"
   group: lagere
-  juf: Juf Elisa Van Brantegem
+  juf: Elisa Van Brantegem
   juf-image: elisa_van_brantegem.jpg
   klas-image: L4b.png
   functie: juf
@@ -145,15 +145,15 @@
 - title: "l5a"
   href: "#"
   group: lagere
-  juf: Juf Els Abé
-  juf-image: els_abe.jpg
+  juf: Els Abé
+  juf-image: els_abe.png
   klas-image: L5a.png
   functie: juf
 
 - title: "l5b"
   href: "#"
   group: lagere
-  juf: Juf Shana Cooreman
+  juf: Shana Cooreman
   juf-image: shana_cooreman.jpg
   klas-image: L5b.png
   functie: juf
@@ -161,7 +161,7 @@
 - title: "l6a"
   href: "#"
   group: lagere
-  juf: Juf Ann Gysels
+  juf: Ann Gysels
   juf-image: ann_gysels.jpg
   klas-image: L6a.png
   functie: juf
@@ -169,8 +169,8 @@
 - title: "l6b"
   href: "#"
   group: lagere
-  juf: Meester Joachim Hoebeke
-  juf-image: joachim_hoebeke.jpg
+  juf: Joachim Hoebeke
+  juf-image: naamloos_man.png
   klas-image: L6b.png
   functie: meester
   
